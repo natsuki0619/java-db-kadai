@@ -1,1 +1,0 @@
-package kadai_010;
